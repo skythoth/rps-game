@@ -1,0 +1,91 @@
+{
+  "version": "2.0",
+  "lastUpdated": "2026-03-26T11:10:40.378Z",
+  "activeFeatures": [
+    "component",
+    "rps-game"
+  ],
+  "primaryFeature": "component",
+  "features": {
+    "component": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-26T10:36:08.877Z",
+        "lastUpdated": "2026-03-26T10:36:08.877Z"
+      },
+      "lastFile": "/Users/skythoth/Documents/reactStudy/rps-game/src/component/Box.jsx"
+    },
+    "rps-game": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-26T10:40:30.414Z",
+        "lastUpdated": "2026-03-26T11:10:40.378Z"
+      },
+      "lastFile": "/Users/skythoth/Documents/reactStudy/rps-game/src/App.jsx"
+    }
+  },
+  "pipeline": {
+    "currentPhase": 1,
+    "level": "Dynamic",
+    "phaseHistory": []
+  },
+  "session": {
+    "startedAt": "2026-03-26T10:32:49.943Z",
+    "onboardingCompleted": false,
+    "lastActivity": "2026-03-26T11:10:40.378Z"
+  },
+  "history": [
+    {
+      "timestamp": "2026-03-26T10:36:08.877Z",
+      "feature": "component",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-26T10:40:30.414Z",
+      "feature": "rps-game",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-26T10:40:42.005Z",
+      "feature": "rps-game",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-26T10:40:52.434Z",
+      "feature": "rps-game",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-26T10:40:58.055Z",
+      "feature": "rps-game",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-26T11:10:28.703Z",
+      "feature": "rps-game",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-26T11:10:40.378Z",
+      "feature": "rps-game",
+      "phase": "do",
+      "action": "updated"
+    }
+  ]
+}
